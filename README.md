@@ -3,7 +3,7 @@
 ![bee](https://user-images.githubusercontent.com/87099578/173204163-1c64988b-1bbe-493d-b473-4b3cc74ab4b9.png)
 
 ---
-Hi! I like to code to explore what I can do. Uwuie.
+Hi! I like to code to explore what I can do. I'm trying my best. :c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissUwuieTime&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,5 +1,7 @@
 ### MissUwuieTime - What a cutie!
 ---
+Hi! I like to code to explore what I can do. I also love Typescript because it feels natural to me. c:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissUwuieTime&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![bee](https://user-images.githubusercontent.com/87099578/173204163-1c64988b-1bbe-493d-b473-4b3cc74ab4b9.png)
 

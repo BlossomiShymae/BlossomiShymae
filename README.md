@@ -1,9 +1,11 @@
-### MissUwuieTime - What a cutie!
+### MissUwuieTime - What a cutie! 
+![kitty](https://user-images.githubusercontent.com/87099578/188251382-b6f19a47-146f-4c99-98c5-165a30b15c05.png)
+![bee](https://user-images.githubusercontent.com/87099578/173204163-1c64988b-1bbe-493d-b473-4b3cc74ab4b9.png)
+
 ---
 Hi! I like to code to explore what I can do. Uwuie.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissUwuieTime&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-![bee](https://user-images.githubusercontent.com/87099578/173204163-1c64988b-1bbe-493d-b473-4b3cc74ab4b9.png)
 
 ### Programming languages I recently used
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)

@@ -5,7 +5,7 @@
 ---
 Hi! I like to code to explore what I can do. I'm trying my best. :c
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissUwuieTime&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissUwuieTime&langs_count=10&hide=html,scss&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming languages I recently used
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)

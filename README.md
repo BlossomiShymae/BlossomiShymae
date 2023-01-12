@@ -5,4 +5,4 @@
 ---
 Hi! I like to code to explore what I can do. I'm trying my best. :c
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlossomiShymae&langs_count=10&hide=html,scss&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlossomiShymae&langs_count=10&hide=html,scss&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)

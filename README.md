@@ -10,3 +10,11 @@
 Hi! I like to code to explore what I can do. I'm trying my best. :c
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlossomiShymae&langs_count=10&hide=html,scss&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![monsoon](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=monsoon&theme=discord_old_blurple)](https://github.com/BlossomiShymae/monsoon)
+[![Equinox](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=Equinox&theme=discord_old_blurple)](https://github.com/BlossomiShymae/Equinox)
+[![ImageBlossoms](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=ImageBlossoms&theme=discord_old_blurple)](https://github.com/BlossomiShymae/ImageBlossoms)
+[![Vanillaget](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=Vanillaget&theme=discord_old_blurple)](https://github.com/BlossomiShymae/Vanillaget)
+[![Needlework](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=Needlework&theme=discord_old_blurple)](https://github.com/BlossomiShymae/Needlework)
+[![cute-rate-limit](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=cute-rate-limit&theme=discord_old_blurple)](https://github.com/BlossomiShymae/cute-rate-limit)
+[![memokitty](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BlossomiShymae&repo=memokitty&theme=discord_old_blurple)](https://github.com/BlossomiShymae/memokitty)

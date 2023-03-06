@@ -7,7 +7,7 @@
      <ul>
         <li><b>Name:</b> Blossomi Shymae</li>
         <li><b>Traits:</b> quite shy, kind, and gentle</b></li>
-        <li><b>Loves:</b> wholesome anime, art, music, and escapism </li>
+        <li><b>Loves:</b> wholesome anime, art, music, and escapism (lots of it...) </li>
         <li><b>Hobbies:</b> programming, drawing, and digital surfing</li>
      </ul>
      <br/>

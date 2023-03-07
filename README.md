@@ -1,6 +1,6 @@
 <body>
   <center>
-    <h1 align="center">💚 Hiya and welcome! 💚</h1>
+    <h1 align="center">💚 Hiya and welcome! 💜</h1>
     <div align="center">
       <img align="right" src="https://user-images.githubusercontent.com/87099578/222960413-a7472e02-3d41-492e-b4b3-7730ce5855c3.gif"/>
     </div>

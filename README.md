@@ -2,7 +2,7 @@
   <center>
     <h1 align="center">H-hii... </h1>
     <div align="center">
-      <img align="right" src="https://github.com/BlossomiShymae/BlossomiShymae/assets/87099578/5f025cd7-5ec8-45fd-9899-5dcc7eb30e27"/>
+      <img align="right" src="https://github.com/BlossomiShymae/BlossomiShymae/assets/87099578/a654cc6c-dba9-41f9-bf7e-e0988aa89886"/>
     </div>
      <ul>
         <li><b>Name:</b> Blossomi Shymae</li>
